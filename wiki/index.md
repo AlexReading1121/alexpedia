@@ -21,4 +21,5 @@
 - [書名](books/檔名.md) - 標籤：#tag1 #tag2
 -->
 
+- [LLM Wiki Guideline](llm-wiki-guideline) - 標籤：#meta #rules
 - [男性擇偶策略：長短期擇偶的進化心理學](books/2026-04-06-male-mating-strategies.md) - 標籤：#evolutionary-psychology #mating-strategy #relationship
