@@ -1,11 +1,14 @@
 ﻿# Thinking, Fast and Slow：快思慢想
 
+<img src="/images/book-covers/thinking-fast-and-slow.jpg" alt="Thinking Fast and Slow Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+
 ## Metadata
 
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 2.0-psychological
-- source_pdf: aw/human/2.0-psychological/2.1_快思慢想_Thinking Fast and slow.pdf
+- source_pdf: 
+aw/human/2.0-psychological/2.1_快思慢想_Thinking Fast and slow.pdf
 - tags: #psychology #cognition #decision-making #bias #system-thinking
 
 ## 核心概念
@@ -124,7 +127,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/2.0-psychological/2.1_快思慢想_Thinking Fast and slow.pdf
+- 文件路徑：
+aw/human/2.0-psychological/2.1_快思慢想_Thinking Fast and slow.pdf
 
 ---
 

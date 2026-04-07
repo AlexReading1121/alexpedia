@@ -1,5 +1,7 @@
 ﻿# 創新的兩難：The Innovator's Dilemma
 
+<img src="/images/book-covers/innovators-dilemma.jpg" alt="Innovator's Dilemma Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+
 ## Metadata
 
 - ingest_date: 2026-04-06

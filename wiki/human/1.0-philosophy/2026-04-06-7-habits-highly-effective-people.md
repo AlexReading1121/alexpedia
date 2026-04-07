@@ -1,5 +1,7 @@
 # 7 Habits of Highly Effective People：高效能習慣
 
+<img src="/images/book-covers/7-habits.jpg" alt="7 Habits Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+
 ## Metadata
 
 - ingest_date: 2026-04-06
