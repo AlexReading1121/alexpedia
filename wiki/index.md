@@ -76,5 +76,15 @@
 - [Man：男性本質與擇偶策略](human/3.0-male-female/2026-04-06-man) - #male-female #male-psychology #mating-strategy
 - [Model：關係模型與框架](human/3.0-male-female/2026-04-06-relationship-model) - #male-female #relationship-model #framework
 
+### 金融投資系列 (4.0-Finance)
+- [投資最重要的事：霍華德·馬克斯投資哲學](society/4.0-finance/2026-04-06-most-important-thing) - #finance #investment #howard-marks #risk-management
+- [投資文章整合：財務智慧精華](society/4.0-finance/2026-04-06-investment-articles) - #finance #investment #wisdom #summary
+- [投資概念精要：霍華德·馬克斯核心思想](society/4.0-finance/2026-04-06-investment-concepts) - #finance #investment #howard-marks #concepts
+- [彼得·林奇選股戰略：成長股投資大師](society/4.0-finance/2026-04-06-peter-lynch-strategy) - #finance #investment #peter-lynch #growth-stock
+- [多空操作秘笈：技術分析實戰](society/4.0-finance/2026-04-06-long-short-strategy) - #finance #technical-analysis #trading #market-timing
+- [冠軍魔術師II：馬克·米勒維尼高級交易策略](society/4.0-finance/2026-04-06-minervini-strategy) - #finance #trading #mark-minervini #advanced-techniques
+- [時勢：金融概念與宏觀視野](society/4.0-finance/2026-04-06-macro-finance) - #finance #macro-economics #financial-concepts #trends
+- [宏觀經濟學小Lin說：經濟運行原理](society/4.0-finance/2026-04-06-macroeconomics) - #finance #macro-economics #economic-principles #gdp
+
 ### Books
 - [男性擇偶策略：長短期擇偶的進化心理學](books/2026-04-06-male-mating-strategies.md) - #evolutionary-psychology #mating-strategy #relationship
