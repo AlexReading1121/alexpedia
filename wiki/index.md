@@ -86,5 +86,13 @@
 - [時勢：金融概念與宏觀視野](society/4.0-finance/2026-04-06-macro-finance) - #finance #macro-economics #financial-concepts #trends
 - [宏觀經濟學小Lin說：經濟運行原理](society/4.0-finance/2026-04-06-macroeconomics) - #finance #macro-economics #economic-principles #gdp
 
+### 商業創業系列 (5.0-Business)
+- [From Zero to One：彼得·蒂爾的創業哲學](society/5.0-business/2026-04-06-zero-to-one) - #business #startup #innovation #peter-thiel #monopoly
+- [精實創業：Lean Startup方法論](society/5.0-business/2026-04-06-lean-startup) - #business #startup #lean-startup #mvp #validated-learning
+- [先問為什麼：Start with Why的黃金圈法則](society/5.0-business/2026-04-06-start-with-why) - #business #leadership #simon-sinek #golden-circle #purpose
+- [定位：Positioning品牌定位戰略](society/5.0-business/2026-04-06-positioning) - #business #marketing #positioning #brand-strategy #al-ries
+- [創新的兩難：The Innovator's Dilemma](society/5.0-business/2026-04-06-innovators-dilemma) - #business #innovation #disruption #clayton-christensen #management
+- [商業分析經濟學：Economics for Business Analysis](society/5.0-business/2026-04-06-business-economics) - #business #economics #business-analysis #strategy
+
 ### Books
 - [男性擇偶策略：長短期擇偶的進化心理學](books/2026-04-06-male-mating-strategies.md) - #evolutionary-psychology #mating-strategy #relationship
