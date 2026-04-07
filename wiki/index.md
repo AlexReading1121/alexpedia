@@ -94,5 +94,9 @@
 - [創新的兩難：The Innovator's Dilemma](society/5.0-business/2026-04-06-innovators-dilemma) - #business #innovation #disruption #clayton-christensen #management
 - [商業分析經濟學：Economics for Business Analysis](society/5.0-business/2026-04-06-business-economics) - #business #economics #business-analysis #strategy
 
+### 科技前沿系列 (6.0-Technology)
+- [AI Report：人工智能發展報告](society/6.0-technology/2026-04-06-ai-report) - #technology #ai #artificial-intelligence #future #report
+- [How to DeFi：去中心化金融入門指南](society/6.0-technology/2026-04-06-how-to-defi) - #technology #defi #decentralized-finance #blockchain #web3
+
 ### Books
 - [男性擇偶策略：長短期擇偶的進化心理學](books/2026-04-06-male-mating-strategies.md) - #evolutionary-psychology #mating-strategy #relationship
