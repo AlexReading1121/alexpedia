@@ -1,4 +1,4 @@
-# 7 Habits of Highly Effective People：高效能習慣（Human 1.0）
+# 7 Habits of Highly Effective People：高效能習慣
 
 ## Metadata
 
