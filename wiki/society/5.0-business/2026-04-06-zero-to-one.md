@@ -1,6 +1,6 @@
 ﻿# 從零到一：彼得·蒂爾的創業哲學
 
-<img src="/images/book-covers/zero-to-one.jpg" alt="Zero to One Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+<img src="https://alexreading1121.github.io/alexpedia/images/book-covers/zero-to-one.jpg" alt="Zero to One Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
 
 ## Metadata
 

@@ -1,6 +1,6 @@
 # 7 Habits of Highly Effective People：高效能習慣
 
-<img src="/images/book-covers/7-habits.jpg" alt="7 Habits Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+<img src="https://alexreading1121.github.io/alexpedia/images/book-covers/7-habits.jpg" alt="7 Habits Book Cover" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border: 1px solid #ddd; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
 
 ## Metadata
 
