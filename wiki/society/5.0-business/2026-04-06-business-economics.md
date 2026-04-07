@@ -1,37 +1,41 @@
-﻿# 商业分析经济学：Economics for Business Analysis
+﻿# 商業分析經濟學：Economics for Business Analysis
 
 ## Metadata
 
 - ingest_date: 2026-04-06
-- domain: society
+- domain: 社會
 - topic: 5.0-business
-- source_pdf: aw/society/5.0-business/5.6_Economics Analysis.pdf
+- source_pdf: `raw/society/5.0-business/5.6_Economics Analysis.pdf`
 - tags: #business #economics #business-analysis #strategy #decision-making
 
 ## 核心概念
 
-将经济学原理应用于商业分析和决策，理解市场机制、成本结构、定价策略、竞争动态，建立基于经济逻辑的商业思维框架。
+將經濟學原理應用於商業分析和決策，理解市場機制、成本結構、定價策略、競爭動態，建立基於經濟邏輯的商業思維框架。
 
-## 经济学基础
+## 經濟學基礎
 
 ### 一、供需原理
 - **需求定律**：
-  - 价格与需求量负相关
-  - 价格上升，需求下降
-  - 价格下降，需求上升
-- **供给定律**：
-  - 价格与供给量正相关
-  - 价格上升，供给增加
-  - 价格下降，供给减少
-- **市场均衡**：
-  - 供需相等的价格
-  - 自然趋向均衡
-  - 外部冲击导致变化
+  - 價格與需求量負相關
+  - 價格上升，需求下降
+  - 價格下降，需求上升
+- **供給定律**：
+  - 價格與供給量正相關
+  - 價格上升，供給增加
+  - 價格下降，供給減少
+- **市場均衡**：
+  - 供需相等的價格
+  - 自然趨向均衡
+  - 外部衝擊導致變化
 
-### 二、弹性分析
-- **需求价格弹性**：
-  - 衡量需求对价格敏感度
-  - 弹性大：价格小幅变动，需求大幅变动
+### 二、彈性分析
+- **需求價格彈性**：
+  - 衡量需求對價格敏感度
+  - 彈性大：價格小幅變動，需求大幅變動
+  - 彈性小：價格變動，需求變動不大
+  - 影響因素：替代品、必需品、時間
+- **收入彈性**：
+  - 需求對收入變化的反應
   - 弹性小：价格变动，需求变动不大
   - 影响因素：替代品、必需品、时间
 - **收入弹性**：
@@ -290,7 +294,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/society/5.0-business/5.6_Economics Analysis.pdf
+- 文件路徑：
+aw/society/5.0-business/5.6_Economics Analysis.pdf
 
 ---
 

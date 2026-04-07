@@ -1,36 +1,45 @@
-﻿# 创新的两难：The Innovator's Dilemma
+﻿# 創新的兩難：The Innovator's Dilemma
 
 ## Metadata
 
 - ingest_date: 2026-04-06
-- domain: society
+- domain: 社會
 - topic: 5.0-business
-- source_pdf: aw/society/5.0-business/5.5_創新的兩難_The dilema of innovation.pdf
+- source_pdf: `raw/society/5.0-business/5.5_創新的兩難_The dilema of innovation.pdf`
 - tags: #business #innovation #disruption #clayton-christensen #management
 
 ## 核心概念
 
-克莱顿·克里斯坦森的颠覆性创新理论，解释为什么伟大的公司会失败，为什么优秀管理者会做出看似合理却最终导致失败的决策，以及如何破解创新的两难。
+克萊頓·克里斯坦森的顛覆性創新理論，解釋為什麼偉大的公司會失敗，為什麼優秀管理者會做出看似合理卻最終導致失敗的決策，以及如何破解創新的兩難。
 
-## 创新的两难
+## 創新的兩難
 
-### 一、困境的本质
-- **优秀公司的失败**：
-  - 管理无可挑剔
-  - 决策看似合理
-  - 倾听客户意见
-  - 投资于新技术
-  - 却依然失败
-- **理性决策的陷阱**：
-  - 按照教科书管理
-  - 做出最理性的选择
-  - 结果却是灾难
-  - 为什么？
+### 一、困境的本質
+- **優秀公司的失敗**：
+  - 管理無可挑剔
+  - 決策看似合理
+  - 傾聽客戶意見
+  - 投資於新技術
+  - 卻依然失敗
+- **理性決策的陷阱**：
+  - 按照教科書管理
+  - 做出最理性的選擇
+  - 結果卻是災難
+  - 為什麼？
 
-### 二、两种创新类型
-- **持续性创新（Sustaining Innovation）**：
-  - 改进现有产品
-  - 满足现有客户需求
+### 二、兩種創新類型
+- **持續性創新（Sustaining Innovation）**：
+  - 改進現有產品
+  - 滿足現有客戶需求
+  - 在現有市場框架內
+  - 主流客戶歡迎
+  - 行業領導者通常獲勝
+- **顛覆性創新（Disruptive Innovation）**：
+  - 創造新市場或低端市場
+  - 初期性能較差
+  - 不符合主流客戶需求
+  - 被主流客戶拒絕
+  - 最終顛覆現有市場
   - 在现有市场框架内
   - 主流客户欢迎
   - 行业领导者通常获胜
@@ -228,7 +237,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/society/5.0-business/5.5_創新的兩難_The dilema of innovation.pdf
+- 文件路徑：
+aw/society/5.0-business/5.5_創新的兩難_The dilema of innovation.pdf
 
 ---
 

@@ -1,30 +1,30 @@
-﻿# How to DeFi：去中心化金融入门指南
+﻿# How to DeFi：去中心化金融入門指南
 
 ## Metadata
 
 - ingest_date: 2026-04-06
-- domain: society
-- topic: 6.0-technology
-- source_pdf: aw/society/6.0-technology/6.1_How to Defi.pdf
-- tags: #technology #defi #decentralized-finance #blockchain #crypto #web3
+- domain: 社會
+- topic: 6.0-技術
+- source_pdf: `raw/society/6.0-technology/6.1_How to Defi.pdf`
+- tags: #技術 #defi #去中心化金融 #區塊鏈 #加密貨幣 #web3
 
 ## 核心概念
 
-去中心化金融（DeFi）的全面指南，理解基于区块链技术的开放金融系统，掌握DeFi协议的使用方法、投资机会和风险管理的实用知识。
+去中心化金融（DeFi）的全面指南，理解基於區塊鏈技術的開放金融系統，掌握DeFi協議的使用方法、投資機會和風險管理的實用知識。
 
-## DeFi基础
+## DeFi基礎
 
-### 一、什么是DeFi
-- **定义**：
+### 一、什麼是DeFi
+- **定義**：
   - 去中心化金融（Decentralized Finance）
-  - 基于区块链技术的金融服务
-  - 无需中介机构的开放系统
-- **与传统金融对比**：
-  - 无需许可：任何人可参与
-  - 无需信任：代码即法律
-  - 透明：所有交易公开可查
-  - 可组合：协议像乐高一样组合
-  - 全球化：24/7无国界运作
+  - 基於區塊鏈技術的金融服務
+  - 無需中介機構的開放系統
+- **與傳統金融對比**：
+  - 無需許可：任何人可參與
+  - 無需信任：代碼即法律
+  - 透明：所有交易公開可查
+  - 可組合：協議像樂高一樣組合
+  - 全球化：24/7無國界運作
 - **核心特征**：
   - 去中心化治理
   - 智能合约自动执行
@@ -327,7 +327,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/society/6.0-technology/6.1_How to Defi.pdf
+- 文件路徑：
+aw/society/6.0-technology/6.1_How to Defi.pdf
 
 ---
 

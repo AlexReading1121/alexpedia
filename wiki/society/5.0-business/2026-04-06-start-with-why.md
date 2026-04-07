@@ -1,40 +1,47 @@
-﻿# 先问为什么：Start with Why的黄金圈法则
+﻿# 先問為什麼：Start with Why的黃金圈法則
 
 ## Metadata
 
 - ingest_date: 2026-04-06
-- domain: society
+- domain: 社會
 - topic: 5.0-business
-- source_pdf: aw/society/5.0-business/5.3_先問為什麼_ASk Why.pdf
+- source_pdf: `raw/society/5.0-business/5.3_先問為什麼_ASk Why.pdf`
 - tags: #business #leadership #simon-sinek #golden-circle #purpose
 
 ## 核心概念
 
-西蒙·斯涅克的黄金圈法则，从为什么（Why）出发，而非做什么（What），建立真正有影响力的领导力、品牌和组织。伟大的领袖和组织都从内到外思考：Why -> How -> What。
+西蒙·斯涅克的黃金圈法則，從為什麼（Why）出發，而非做什麼（What），建立真正有影響力的領導力、品牌和組織。偉大的領袖和組織都從內到外思考：Why -> How -> What。
 
-## 黄金圈法则
+## 黃金圈法則
 
-### 一、三个层次
-- **为什么（Why）**：
+### 一、三個層次
+- **為什麼（Why）**：
   - 核心信念
   - 存在的理由
-  - 使命和愿景
-  - 激励行动的原因
-- **怎么做（How）**：
-  - 实现Why的方法
-  - 差异化因素
-  - 独特的过程
-  - 价值观和行为准则
-- **做什么（What）**：
-  - 具体产品或服务
-  - 结果和输出
-  - 外在表现
+  - 使命和願景
+  - 激勵行動的原因
+- **怎麼做（How）**：
+  - 實現Why的方法
+  - 差異化因素
+  - 獨特的過程
+  - 價值觀和行為準則
+- **做什麼（What）**：
+  - 具體產品或服務
+  - 結果和輸出
+  - 外在表現
   - 最容易描述的部分
 
-### 二、从内到外 vs 从外到内
-- **普通组织**：
-  - 从外到内：What -> How -> Why
-  - 难以区分和激励
+### 二、從內到外 vs 從外到內
+- **普通組織**：
+  - 從外到內：What -> How -> Why
+  - 難以區分和激勵
+  - 基於理性決策
+  - 容易比較和替代
+- **卓越組織**：
+  - 從內到外：Why -> How -> What
+  - 清晰獨特且有感染力
+  - 觸動情感和信念
+  - 建立忠誠和認同
   - 基于理性决策
   - 容易比较和替代
 - **卓越组织**：
@@ -221,7 +228,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/society/5.0-business/5.3_先問為什麼_ASk Why.pdf
+- 文件路徑：
+aw/society/5.0-business/5.3_先問為什麼_ASk Why.pdf
 
 ---
 
