@@ -8,8 +8,8 @@
 
 | # | 文章 | 標籤 |
 |---|------|------|
-| 1 | [AI Report：人工智能發展報告](2026-04-06-ai-report) | #ai #future #report |
-| 2 | [How to DeFi](2026-04-06-how-to-defi) | #defi #blockchain #web3 |
+| 1 | [AI Report：人工智能發展報告](2026-04-06-ai-report.md) | #ai #future #report |
+| 2 | [How to DeFi](2026-04-06-how-to-defi.md) | #defi #blockchain #web3 |
 
 ---
 
