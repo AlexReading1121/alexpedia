@@ -1,0 +1,120 @@
+name: Deploy Alexpedia with PDF Support
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'raw/**/*.pdf'
+      - 'wiki/**'
+      - 'quartz.config.ts'
+      - 'quartz.layout.ts'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Clear npm cache
+        run: npm cache clean --force
+        
+      - name: Install dependencies
+        run: npm install
+
+      - name: Create PDF assets directory
+        run: |
+          mkdir -p public/assets/pdf
+          mkdir -p public/assets/pdf/human
+          mkdir -p public/assets/pdf/society
+
+      - name: Copy and organize PDF files
+        run: |
+          echo "📄 正在复制PDF文件..."
+          # 复制human类别的PDF
+          if [ -d "raw/human" ]; then
+            cp -r raw/human/*.pdf public/assets/pdf/human/ 2>/dev/null || true
+            echo "✅ Human PDF文件已复制"
+          fi
+          
+          # 复制society类别的PDF
+          if [ -d "raw/society" ]; then
+            cp -r raw/society/*.pdf public/assets/pdf/society/ 2>/dev/null || true
+            echo "✅ Society PDF文件已复制"
+          fi
+
+      - name: Generate PDF index page
+        run: |
+          cat > public/assets/pdf/index.md << 'EOF'
+          ---
+          title: "📚 PDF资源库"
+          description: "Alexpedia PDF文档集合"
+          ---
+          
+          # 📚 PDF资源库
+          
+          这里收集了所有相关的PDF文档资源，按类别整理。
+          
+          ## 🧠 Human类别
+          
+          EOF
+          
+          # 添加human PDF链接
+          for pdf in public/assets/pdf/human/*.pdf; do
+            if [ -f "$pdf" ]; then
+              filename=$(basename "$pdf")
+              echo "- [$filename](assets/pdf/human/$filename)" >> public/assets/pdf/index.md
+            fi
+          done
+          
+          echo "" >> public/assets/pdf/index.md
+          echo "## 🌍 Society类别" >> public/assets/pdf/index.md
+          echo "" >> public/assets/pdf/index.md
+          
+          # 添加society PDF链接
+          for pdf in public/assets/pdf/society/*.pdf; do
+            if [ -f "$pdf" ]; then
+              filename=$(basename "$pdf")
+              echo "- [$filename](assets/pdf/society/$filename)" >> public/assets/pdf/index.md
+            fi
+          done
+
+      - name: Build Quartz site from wiki
+        run: node quartz/bootstrap-cli.mjs build -d wiki
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
