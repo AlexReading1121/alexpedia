@@ -6,19 +6,7 @@
 
 ---
 
-## � 關於 Alex
-
-<img src="https://alexreading1121.github.io/alexpedia/images/profile.jpeg" alt="Alex Profile" style="float: right; width: 180px; height: 180px; object-fit: cover; border-radius: 50%; margin-left: 25px; margin-bottom: 20px; border: 3px solid #f0f0f0; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-
-熱愛閱讀與學習，致力於建立個人知識管理系統。這裡收錄了我對各類書籍的閱讀筆記、思考整理與實踐心得。
-
-**座右銘**：持續學習，終身成長。
-
-<div style="clear: both;"></div>
-
----
-
-## �� 知識分類
+## 📚 知識分類
 
 ### 🧠 Human（人類）
 
