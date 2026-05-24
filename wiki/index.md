@@ -1,5 +1,8 @@
-<meta name="google-site-verification" content="wb2HbuTm3L5TiguBIGJ2YMZ1LNqO6IM-0c-XLW_rHSc" />
-
+---
+title: Alexpedia
+header: |
+  <meta name="google-site-verification" content="wb2HbuTm3L5TiguBIGJ2YMZ1LNqO6IM-0c-XLW_rHSc" />
+---
 # Alexpedia
 
 **個人知識圖書館 · 自由百科全書**
