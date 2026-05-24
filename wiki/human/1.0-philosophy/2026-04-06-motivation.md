@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 1.0-philosophy
-- source_pdf: aw/human/1.0-philosophy/1.6_策略思維.pdf
+- source_pdf: 
+aw/human/1.0-philosophy/1.6_策略思維.pdf
 - tags: #motivation #goals #drive #persistence
 
 ## 核心概念
@@ -98,7 +99,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/1.0-philosophy/1.6_策略思維.pdf
+- 文件路徑：
+aw/human/1.0-philosophy/1.6_策略思維.pdf
 
 ---
 

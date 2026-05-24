@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 1.0-philosophy
-- source_pdf: aw/human/1.0-philosophy/
+- source_pdf: 
+aw/human/1.0-philosophy/
 - tags: #discipline #long-term #habits #consistency #compound-effect
 
 ## 核心概念

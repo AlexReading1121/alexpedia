@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 2.0-psychological
-- source_pdf: aw/human/2.0-psychological/2.5_WillPower.pdf
+- source_pdf: 
+aw/human/2.0-psychological/2.5_WillPower.pdf
 - tags: #psychology #willpower #self-control #discipline #ego-depletion
 
 ## 核心概念
@@ -111,7 +112,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/2.0-psychological/2.5_WillPower.pdf
+- 文件路徑：
+aw/human/2.0-psychological/2.5_WillPower.pdf
 
 ---
 

@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 1.0-philosophy
-- source_pdf: aw/human/1.0-philosophy/1.7_吸引力法則.pdf
+- source_pdf: 
+aw/human/1.0-philosophy/1.7_吸引力法則.pdf
 - tags: #self-worth #mindset #boundaries #self-esteem
 
 ## 核心概念
@@ -87,7 +88,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/1.0-philosophy/1.7_吸引力法則.pdf
+- 文件路徑：
+aw/human/1.0-philosophy/1.7_吸引力法則.pdf
 
 ---
 

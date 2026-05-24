@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 2.0-psychological
-- source_pdf: aw/human/2.0-psychological/2.7_How to Sleep Well 睡眠革命.pdf
+- source_pdf: 
+aw/human/2.0-psychological/2.7_How to Sleep Well 睡眠革命.pdf
 - tags: #psychology #sleep #recovery #health #circadian-rhythm
 
 ## 核心概念
@@ -100,7 +101,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/2.0-psychological/2.7_How to Sleep Well 睡眠革命.pdf
+- 文件路徑：
+aw/human/2.0-psychological/2.7_How to Sleep Well 睡眠革命.pdf
 
 ---
 

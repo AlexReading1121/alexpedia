@@ -53,22 +53,4 @@
 
 ---
 
-## 🔧 站內工具
-
-- [Ingest Guide](ingest-guide) - 內容收錄指南
-- [LLM Wiki Guideline](llm-wiki-guideline) - 筆記格式規範
-- [PDF Library](pdf-library) - 原始資料庫
-
----
-
-## 📝 關於本站
-
-**Alexpedia** 使用 [Quartz](https://quartz.jzhao.xyz/) 建置，部署於 GitHub Pages。
-
-- 所有文章均附原始 PDF 來源
-- 採用標準化 Metadata 標註
-- 持續更新中...
-
----
-
 *最後更新：2026-04-07*

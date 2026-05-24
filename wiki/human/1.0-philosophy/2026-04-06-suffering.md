@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 1.0-philosophy
-- source_pdf: aw/human/1.0-philosophy/
+- source_pdf: 
+aw/human/1.0-philosophy/
 - tags: #suffering #resilience #pain #growth #adversity
 
 ## 核心概念

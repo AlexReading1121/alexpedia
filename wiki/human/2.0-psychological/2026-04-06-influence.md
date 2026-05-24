@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 2.0-psychological
-- source_pdf: aw/human/2.0-psychological/2.6_Influence.pdf
+- source_pdf: 
+aw/human/2.0-psychological/2.6_Influence.pdf
 - tags: #psychology #influence #persuasion #social-compliance #manipulation
 
 ## 核心概念
@@ -118,7 +119,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/2.0-psychological/2.6_Influence.pdf
+- 文件路徑：
+aw/human/2.0-psychological/2.6_Influence.pdf
 
 ---
 

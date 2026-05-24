@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 1.0-philosophy
-- source_pdf: aw/human/1.0-philosophy/1.4_Great at Work.pdf
+- source_pdf: 
+aw/human/1.0-philosophy/1.4_Great at Work.pdf
 - tags: #work #productivity #execution #performance
 
 ## 核心概念
@@ -68,7 +69,8 @@
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/1.0-philosophy/1.4_Great at Work.pdf
+- 文件路徑：
+aw/human/1.0-philosophy/1.4_Great at Work.pdf
 
 ---
 

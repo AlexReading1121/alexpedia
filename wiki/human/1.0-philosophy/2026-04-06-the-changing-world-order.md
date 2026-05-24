@@ -5,7 +5,8 @@
 - ingest_date: 2026-04-06
 - domain: human
 - topic: 1.0-philosophy
-- source_pdf: aw/human/1.0-philosophy/1.8_The Changing World Order.pdf
+- source_pdf: 
+aw/human/1.0-philosophy/1.8_The Changing World Order.pdf
 - tags: #macro #world-order #economics #history
 
 ## 核心概念
@@ -18,7 +19,7 @@
 1. **新秩序建立**：戰爭後，新主導國崛起
 2. **政府與官僚體系建立**：制度建設期
 3. **和平與繁榮**：教育、創新、生產力提升
-4. **泡沫與過度借貸**：債務累積，贫富差距擴大
+4. **泡沫與過度借貸**：債務累積，貧富差距擴大
 5. **衰退與革命**：經濟衰退，內部衝突加劇
 6. **戰爭與新秩序**：內戰或國際戰爭，新週期開始
 
@@ -78,14 +79,15 @@
 
 - 關注儲備貨幣與債務水準的變化
 - 分散投資，不過度依賴單一國家或貨幣
-- 了解歷史模式，但不機械套套
+- 了解歷史模式，但不機械套用
 - 保持開放心態，適應新秩序的可能
 
 ---
 
 ## 原始 PDF
 
-- 文件路徑：aw/human/1.0-philosophy/1.8_The Changing World Order.pdf
+- 文件路徑：
+aw/human/1.0-philosophy/1.8_The Changing World Order.pdf
 
 ---
 
