@@ -62,7 +62,7 @@ A tech-lover who enjoys RPG—Reading, Photography, and Gym.
 
 ![Achievement Icon](images/achievement.jpg)
 
-- ![Travel Icon](images/travel.jpg) **Traveling**: Participated in global university exchange programs and official travel initiatives
+- ![Travel Icon](images/travel.jpg) **Global Traveling**: Participated in global university exchange programs and official travel initiatives - [Read more](https://cityu.edu.hk/media/news/2023/12/28/global-journey-south-africa-paris-and-beyond)
 - ![Career Icon](images/career.jpg) **Career**: Joined HSBC Private Banking, my previous career goal
 - ![Sports Icon](images/sports.jpg) **Sports**: Selected for the Hong Kong Orienteering Team with a sports scholarship
 - ![Music Icon](images/music.jpg) **Music**: Performed at the Beijing National Theatre for the Hong Kong Handover Anniversary
