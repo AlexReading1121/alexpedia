@@ -21,52 +21,52 @@ header: |
 
 ## 👤 About Me
 
-![Profile Picture](images/profile.jpg)
-
 Hi everyone, I am Alex.
 
 A tech-lover who enjoys RPG—Reading, Photography, and Gym.
+
+![Profile Picture](images/profile.jpg)
 
 ---
 
 ## 🎓 Education
 
-![University Icon](images/university.jpg)
-
 ### City University of Hong Kong (Hong Kong)
 
 **BBA in Global Business Systems Management, 2021–2026**
 
+![University Icon](images/university.jpg)
+
 ### Exchange Programs
 
-![Exchange Icon](images/exchange.jpg)
+- **Western University (Canada), 2024** ![Canada Flag](images/canada.jpg)
+- **Paris Dauphine University – PSL (France), 2023** ![France Flag](images/france.jpg)
+- **Stellenbosch University (South Africa), 2023** ![South Africa Flag](images/south-africa.jpg)
+- **Tsinghua University (China), 2017–2018** ![China Flag](images/china.jpg)
 
-- ![Canada Flag](images/canada.jpg) **Western University (Canada), 2024**
-- ![France Flag](images/france.jpg) **Paris Dauphine University – PSL (France), 2023**
-- ![South Africa Flag](images/south-africa.jpg) **Stellenbosch University (South Africa), 2023**
-- ![China Flag](images/china.jpg) **Tsinghua University (China), 2017–2018**
+![Exchange Icon](images/exchange.jpg)
 
 ---
 
 ## 💼 Work Experience
 
-![Work Icon](images/work.jpg)
-
 ### 2025: HSBC Private Banking
 
 ![HSBC Logo](images/hsbc.jpg)
+
+![Work Icon](images/work.jpg)
 
 ---
 
 ## 🏆 Achievements
 
-![Achievement Icon](images/achievement.jpg)
+- **Global Traveling**: Participated in global university exchange programs and official travel initiatives - [Read more](https://cityu.edu.hk/media/news/2023/12/28/global-journey-south-africa-paris-and-beyond) ![Travel Icon](images/travel.jpg)
+- **Career**: Joined HSBC Private Banking, my previous career goal ![Career Icon](images/career.jpg)
+- **Sports**: Selected for the Hong Kong Orienteering Team with a sports scholarship ![Sports Icon](images/sports.jpg)
+- **Music**: Performed at the Beijing National Theatre for the Hong Kong Handover Anniversary ![Music Icon](images/music.jpg)
+- **Volunteering**: Taught IT skills to local students in South Africa ![Volunteering Icon](images/volunteering.jpg)
 
-- ![Travel Icon](images/travel.jpg) **Global Traveling**: Participated in global university exchange programs and official travel initiatives - [Read more](https://cityu.edu.hk/media/news/2023/12/28/global-journey-south-africa-paris-and-beyond)
-- ![Career Icon](images/career.jpg) **Career**: Joined HSBC Private Banking, my previous career goal
-- ![Sports Icon](images/sports.jpg) **Sports**: Selected for the Hong Kong Orienteering Team with a sports scholarship
-- ![Music Icon](images/music.jpg) **Music**: Performed at the Beijing National Theatre for the Hong Kong Handover Anniversary
-- ![Volunteering Icon](images/volunteering.jpg) **Volunteering**: Taught IT skills to local students in South Africa
+![Achievement Icon](images/achievement.jpg)
 
 ---
 
@@ -142,9 +142,9 @@ A tech-lover who enjoys RPG—Reading, Photography, and Gym.
 
 ### Reading
 
-![Reading Icon](images/reading.jpg)
-
 [Patreon: InspireWisdom](http://patreon.com/InspireWisdom?utm_campaign=creatorshare_creator)
+
+![Reading Icon](images/reading.jpg)
 
 ### Photography
 
@@ -158,9 +158,9 @@ A tech-lover who enjoys RPG—Reading, Photography, and Gym.
 
 ## 📧 Contact
 
-![Contact Icon](images/contact.jpg)
-
 **Email**: Alexau1121@gmail.com
+
+![Contact Icon](images/contact.jpg)
 
 ---
 
