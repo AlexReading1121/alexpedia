@@ -4,7 +4,10 @@ header: |
   <meta name="google-site-verification" content="wb2HbuTm3L5TiguBIGJ2YMZ1LNqO6IM-0c-XLW_rHSc" />
   <style>
     body {
-      font-size: 36px !important;
+      font-size: 120px !important;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-weight: bold !important;
     }
     img {
       max-width: 50% !important;
