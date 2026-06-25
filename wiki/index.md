@@ -60,7 +60,7 @@ A tech-lover who enjoys RPG—Reading, Photography, and Gym.
 ![Achievement Icon](images/achievement.jpg)
 
 - ![Travel Icon](images/travel.jpg) **Traveling**: Participated in global university exchange programs and official travel initiatives
-- ![Career Icon](images/career.jpg) **Career**: Joined HSBC, a long-term career aspiration
+- ![Career Icon](images/career.jpg) **Career**: Joined HSBC Private Banking, my previous career goal
 - ![Sports Icon](images/sports.jpg) **Sports**: Selected for the Hong Kong Orienteering Team with a sports scholarship
 - ![Music Icon](images/music.jpg) **Music**: Performed at the Beijing National Theatre for the Hong Kong Handover Anniversary
 - ![Volunteering Icon](images/volunteering.jpg) **Volunteering**: Taught IT skills to local students in South Africa
@@ -140,6 +140,8 @@ A tech-lover who enjoys RPG—Reading, Photography, and Gym.
 ### Reading
 
 ![Reading Icon](images/reading.jpg)
+
+[Patreon: InspireWisdom](http://patreon.com/InspireWisdom?utm_campaign=creatorshare_creator)
 
 ### Photography
 
