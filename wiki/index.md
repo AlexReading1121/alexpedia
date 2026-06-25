@@ -11,151 +11,144 @@ header: |
 
 ## 👤 About Me
 
-你好！我是 Alex，一名熱愛學習和思考的終身學習者。我相信知識的力量，並致力於通過閱讀、思考與實踐來不斷提升自己。
+![Profile Picture](images/profile.jpg)
 
-我對哲學、心理學、金融投資、商業創業和科技前沿等領域充滿熱情。這個網站是我整理和分享知識的地方，記錄了我的閱讀筆記、思考感悟和學習成果。
+Hi everyone, I am Alex.
 
-我相信：
-- **持續學習**是成長的基石
-- **深度思考**能帶來真正的洞察
-- **實踐驗證**是知識轉化的關鍵
+A tech lover who enjoys **RPG**—**R**eading, **P**hotography, and **G**ym.
 
 ---
 
 ## 🎓 Education
 
-### 學歷背景
+![University Icon](images/university.jpg)
 
-| 時間 | 學校 | 專業 | 學位 |
-|------|------|------|------|
-| 20XX - 20XX | 大學名稱 | 專業名稱 | 學士/碩士/博士 |
+### City University of Hong Kong (Hong Kong)
 
-### 持續學習
+**BBA in Global Business Systems Management, 2021–2026**
 
-- 線上課程：Coursera、edX、Udemy
-- 專業證書：CFA、PMP 等
-- 自學領域：哲學、心理學、金融、科技
+### Exchange Programs
 
----
+![Exchange Icon](images/exchange.jpg)
 
-## 💼 Work
-
-### 工作經歷
-
-#### 職位名稱
-**公司名稱** | 20XX - 至今
-
-- 主要職責和成就
-- 項目經驗和技能應用
-- 團隊協作和領導經驗
-
-#### 職位名稱
-**公司名稱** | 20XX - 20XX
-
-- 主要職責和成就
-- 項目經驗和技能應用
-
-### 技能專長
-
-- **專業技能**：投資分析、商業策略、項目管理
-- **技術技能**：數據分析、編程、工具應用
-- **軟技能**：溝通協作、問題解決、領導力
+- ![Canada Flag](images/canada.jpg) **Western University (Canada), 2024**
+- ![France Flag](images/france.jpg) **Paris Dauphine University – PSL (France), 2023**
+- ![South Africa Flag](images/south-africa.jpg) **Stellenbosch University (South Africa), 2023**
+- ![China Flag](images/china.jpg) **Tsinghua University (China), 2017–2018**
 
 ---
 
-## 🏆 Achievement
+## 💼 Work Experience
 
-### 專業成就
+![Work Icon](images/work.jpg)
 
-- 項目完成和業績突出
-- 獲得的獎項和認可
-- 發表的文章和研究
+### 2025: HSBC Private Banking
 
-### 學習成果
-
-- 完成閱讀書籍：100+ 本
-- 整理筆記文章：45+ 篇
-- 建立知識體系：6 個系列
-
-### 個人成長
-
-- 建立系統化的思維框架
-- 培養深度思考能力
-- 形成持續學習習慣
+![HSBC Logo](images/hsbc.jpg)
 
 ---
 
-## � Books Recommendation
+## 🏆 Achievements
 
-### 哲學與思維
+![Achievement Icon](images/achievement.jpg)
 
-- [7 Habits of Highly Effective People：高效能習慣](human/1.0-philosophy/2026-04-06-7-habits-highly-effective-people) - 自我管理的經典框架
-- [快思慢想](human/2.0-psychological/2026-04-06-thinking-fast-and-slow) - 認知科學入門
-
-### 投資與金融
-
-- [投資最重要的事](society/4.0-finance/2026-04-06-most-important-thing) - 霍華德·馬克斯的投資智慧
-- [彼得·林奇選股戰略](society/4.0-finance/2026-04-06-peter-lynch-strategy) - 成長股投資大師
-
-### 創業與商業
-
-- [從零到一](society/5.0-business/2026-04-06-zero-to-one) - 彼得·蒂爾的創業哲學
-- [精實創業](society/5.0-business/2026-04-06-lean-startup) - 創業方法論
-
-### 心理學
-
-- [心理學與生活](human/2.0-psychological/) - 理解人類行為
-- [影響力](human/2.0-psychological/) - 說服與影響的藝術
+- ![Travel Icon](images/travel.jpg) **Traveling**: Participated in global university exchange programs and official travel initiatives
+- ![Career Icon](images/career.jpg) **Career**: Joined HSBC, a long-term career aspiration
+- ![Sports Icon](images/sports.jpg) **Sports**: Selected for the Hong Kong Orienteering Team with a sports scholarship
+- ![Music Icon](images/music.jpg) **Music**: Performed at the Beijing National Theatre for the Hong Kong Handover Anniversary
+- ![Volunteering Icon](images/volunteering.jpg) **Volunteering**: Taught IT skills to local students in South Africa
 
 ---
 
-## 🎯 Hobbies
+## 📚 Books Recommendation
 
-### 閱讀與學習
+![Books Icon](images/books.jpg)
 
-- 每年閱讀 50+ 本書籍
-- 涉猎哲學、心理學、金融、科技等多領域
-- 喜歡深度思考和筆記整理
+### 1. 應用哲學 (Applied Philosophy) - 14 Books
 
-### 運動與健康
+- The Wisdom of Life
+- 讓孤獨成為你的人生時尚
+- 少有人走的路
+- 財富自由之路
+- 神話與未知
+- 死亡與天堂
+- 人與社會
+- 虛擬世界
+- 科技將來
+- 設計你的理想人生
+- 高價值人生法則全書
+- 7 Habits of Highly Effective People
+- Great at Work
+- Human Weakness (卡耐基)
 
-- 跑步、游泳、健身
-- 保持健康的生活方式
-- 相信身體是革命的本錢
+### 2. 心理學 (Psychology)
 
-### 旅行與探索
+- 快思慢想 (Thinking, Fast and Slow)
+- 烏合之眾 (The Crowd: A Study of the Popular Mind)
+- Influence
+- 吸引力法則
+- 被討厭的勇氣 (The Courage to Be Disliked)
+- 菊與刀
+- Korean Culture Study
 
-- 探索不同城市和文化
-- 喜歡自然風景和歷史古跡
-- 通過旅行開闊視野
+### 3. 兩性相處 (Relationships & Gender Dynamics)
 
-### 其他興趣
+- Male and Female 男女對弈
+- 野獸紳士
+- 進化心理學 (Evolutionary Psychology)
+- Male+Female+Difference+Model
+- Male+Female+Difference+Model 2.0 & 3.0
 
-- 音樂欣賞
-- 攝影
-- 烹飪
+### 4. 商業 (Business)
+
+- [From Zero to One](society/5.0-business/2026-04-06-zero-to-one)
+- [精實創業](society/5.0-business/2026-04-06-lean-startup)
+- 先問為什麼 (Ask Why)
+- 定位 (Position)
+- 創新的兩難 (The Dilemma of Innovation)
+- 策略思維
+- 職場心法
+- [The Changing World Order](society/4.0-finance/2026-04-06-the-changing-world-order)
+
+### 5. 金融 (Finance)
+
+- [投資最重要的事 (Howard Marks)](society/4.0-finance/2026-04-06-most-important-thing)
+- [選股戰略 (Peter Lynch)](society/4.0-finance/2026-04-06-peter-lynch-strategy)
+- 多空操作秘笈
+- 冠軍魔術師 II (Mark Minervini)
+- 金融概念
+- 宏觀經濟學
+- Investment All in 1
+
+### 6. 雜項/生活百科 (Grocery)
+
+- How to Sleep Well
+- How to Take Photos Well
+- How to Read a Book
 
 ---
 
-## 📧 Contact Me
+## 🎯 Interests & Hobbies
 
-歡迎與我交流學習心得、分享觀點或探討合作機會！
+### Reading
 
-### 聯繫方式
+![Reading Icon](images/reading.jpg)
 
-- **Email**：your.email@example.com
-- **LinkedIn**：[LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**：[GitHub Profile](https://github.com/yourusername)
-- **Twitter/X**：[@yourhandle](https://twitter.com/yourhandle)
+### Photography
 
-### 社交媒體
+![Photography Icon](images/photography.jpg)
 
-- [微信]：your_wechat_id
-- [Telegram]：your_telegram_id
+### Gym
 
-### 留言板
+![Gym Icon](images/gym.jpg)
 
-如果你有任何問題或建議，歡迎通過以上方式聯繫我。我會盡快回覆！
+---
+
+## 📧 Contact
+
+![Contact Icon](images/contact.jpg)
+
+**Email**: Alexau1121@gmail.com
 
 ---
 
