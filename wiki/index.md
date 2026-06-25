@@ -5,9 +5,15 @@ header: |
   <style>
     body {
       font-size: 120px !important;
+      background-color: #000000 !important;
+      color: #ffffff !important;
     }
     h1, h2, h3, h4, h5, h6 {
       font-weight: bold !important;
+      color: #ffffff !important;
+    }
+    p, li, a, span, div {
+      color: #ffffff !important;
     }
     img {
       max-width: 50% !important;
