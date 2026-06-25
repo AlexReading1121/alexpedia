@@ -2,10 +2,17 @@
 title: Alexpedia
 header: |
   <meta name="google-site-verification" content="wb2HbuTm3L5TiguBIGJ2YMZ1LNqO6IM-0c-XLW_rHSc" />
+  <style>
+    body {
+      font-size: 36px !important;
+    }
+    img {
+      max-width: 50% !important;
+      height: auto !important;
+    }
+  </style>
 ---
 # Alex
-
-> 終身學習者 · 知識探索者 · 思想實踐家
 
 ---
 
@@ -15,7 +22,7 @@ header: |
 
 Hi everyone, I am Alex.
 
-A tech lover who enjoys **RPG**—**R**eading, **P**hotography, and **G**ym.
+A tech-lover who enjoys RPG—Reading, Photography, and Gym.
 
 ---
 
