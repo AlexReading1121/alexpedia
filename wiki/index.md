@@ -1,3 +1,8 @@
+---
+title: Alexpedia
+header: |
+  <meta name="google-site-verification" content="wb2HbuTm3L5TiguBIGJ2YMZ1LNqO6IM-0c-XLW_rHSc" />
+---
 # Alex
 
 > 終身學習者 · 知識探索者 · 思想實踐家
