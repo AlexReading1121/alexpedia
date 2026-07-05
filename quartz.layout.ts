@@ -16,9 +16,7 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -34,10 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
